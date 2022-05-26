@@ -1,0 +1,21 @@
+{
+  "name": "javascript-objetos-alura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Modulo03.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovitoroliv/teste-replit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovitoroliv/teste-replit/issues"
+  },
+  "homepage": "https://github.com/joaovitoroliv/teste-replit#readme"
+}
