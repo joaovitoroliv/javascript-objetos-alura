@@ -1,5 +1,5 @@
 // Javascript: Objetos - Alura
-// Manipulação de Objetos - Modulo 02
+// Modulo 02 - Manipulação de Objetos 
 
 const cliente = {
   nome: "Joao",
